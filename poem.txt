@@ -7,4 +7,4 @@ Green
 Blue
 Violet
 
-These are the colors of the rainbow 
+These are the colors of the rainbow .. in order
